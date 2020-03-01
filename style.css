@@ -129,7 +129,7 @@ p {
 }
 
 #showcase {
-  background: url(/imgs/showcase.jpg) no-repeat center center/cover;
+  background: url(./imgs/showcase.jpg) no-repeat center center/cover;
   height: 600px;
 }
 
